@@ -1,0 +1,15 @@
+{
+    "name": "Experience Title",
+    "symbol": "BOOK",
+    "image": "https://raw.githubusercontent.com/JkrishnaD/slot-mint-asset/main/images/booking-template.png",
+    "attributes": [
+        {
+            "trait_type": "Start",
+            "value": 1234567890
+        },
+        {
+            "trait_type": "End",
+            "value": 1234567890
+        }
+    ]
+}
