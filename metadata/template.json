@@ -1,15 +1,25 @@
 {
-    "name": "Experience Title",
+    "name": "Experience Booking",
     "symbol": "BOOK",
+    "description": "A booking NFT for an experience",
     "image": "https://raw.githubusercontent.com/JkrishnaD/slot-mint-asset/main/images/booking-template.png",
     "attributes": [
         {
-            "trait_type": "Start",
-            "value": 1234567890
+            "trait_type": "Type",
+            "value": "Booking"
         },
         {
-            "trait_type": "End",
-            "value": 1234567890
+            "trait_type": "Experience",
+            "value": "Experience Title"
         }
-    ]
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/JkrishnaD/slot-mint-asset/main/images/booking-template.png",
+                "type": "image/png"
+            }
+        ]
+    }
 }
